@@ -1,7 +1,7 @@
 # Java TPC
 
 Used IDE : Eclipse</br>
-강의 : Java TPC
+강의 : 인프런, Java TPC(생각하고, 표현하고, 코딩하고)
 
 [] : _Class Name_ </br>
 
