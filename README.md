@@ -2,9 +2,6 @@
 
 Used IDE : Eclipse</br>
 강의 : 인프런, Java TPC(생각하고, 표현하고, 코딩하고)
-
-[] : _Class Name_ </br>
-
 </br>
 
 ### **JavaTPC Study**
@@ -50,3 +47,11 @@ Used IDE : Eclipse</br>
   - [TPC33.java](https://github.com/mungkeu/JavaTPC/blob/main/JavaTPC/src/TPC33.java) - Part-2 학습정리
 
 **Part-3**
+- _Java API_
+  - [TPC34.java](https://github.com/mungkeu/JavaTPC/blob/main/JavaTPC/src/TPC34.java) - Package
+  - [TPC35.java](https://github.com/mungkeu/JavaTPC/blob/main/JavaTPC/src/TPC35.java) - Java API 접근 및 활용
+  - [TPC36.java](https://github.com/mungkeu/JavaTPC/blob/main/JavaTPC/src/TPC36.java) - String (객체)
+  - [TPC37.java](https://github.com/mungkeu/JavaTPC/blob/main/JavaTPC/src/TPC37.java) - API IntArray 구현
+  - [TPC38.java](https://github.com/mungkeu/JavaTPC/blob/main/JavaTPC/src/TPC38.java) - API ObjectArray 구현
+  - [TPC39.java](https://github.com/mungkeu/JavaTPC/blob/main/JavaTPC/src/TPC39.java) - Java API, ArrayList<T>
+  - [TPC40.java](https://github.com/mungkeu/JavaTPC/blob/main/JavaTPC/src/TPC40.java) - Wrapper 클래스
