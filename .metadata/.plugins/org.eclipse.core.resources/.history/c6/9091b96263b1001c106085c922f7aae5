@@ -1,0 +1,15 @@
+package kr.bit;
+
+public class TPC07 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+/*
+ * Call By Value(값 전달 기법)
+ * 
+ * Call By Reference(주소 전달 기법)
+ */

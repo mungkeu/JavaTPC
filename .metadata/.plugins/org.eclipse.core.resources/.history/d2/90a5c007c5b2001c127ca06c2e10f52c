@@ -1,0 +1,26 @@
+package kr.tpc;
+
+public class OverLoad {
+	public void hap(int a, int b)
+	{
+		System.out.println(a+b);
+	}
+	
+	public void hap(float a, int b)
+	{
+		System.out.println(a+b);
+	}
+	
+	public void hap(float a, float b)
+	{
+		System.out.println(a+b);
+	}
+}
+
+/*
+ * 컴파일러가 만들어내는 메서드의 이름
+ * 
+ * hap_int_int(int a, int b)
+ * hap_float_int(float a, int b)
+ * hap_float_float(float a, float b)
+ */

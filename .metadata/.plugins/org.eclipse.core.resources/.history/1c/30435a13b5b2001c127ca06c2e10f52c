@@ -1,0 +1,23 @@
+
+public class TCP14 {
+
+	public static void main(String[] args) {
+
+
+	}
+
+}
+
+/*
+ * class, object, instance 상호관계
+ * 
+ *            Object  -> 현재 b1,b2,b3들은 값을 가리키지 않아(생성되지 않아) 무슨책인지 모른다. 그래서 객체라고 한다.
+ * BookDTO 		b1
+ * BookDTO 		b2
+ * BookDTO 		b3
+ * 
+ * 
+ * BookDTO 		b1
+ * BookDTO 		b2
+ * BookDTO 		b3
+ */

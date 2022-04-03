@@ -1,0 +1,22 @@
+
+public class TPC13 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+
+/*
+ * private 생성자 메서드(Constructor)
+ * - 객체생성에 관여하는 생성자 메서드가 private 접근제어를 가지면 객체를 생성(new)할 수 없다.
+ * 
+ * non-static 멤버인 경우(인스턴스 메서드)
+ * - 객체생성 후 접근 가능
+ * 
+ * static 멤버인 경우(클래스 메서드)
+ * 객체생성 없이 접근가능(클래스 이름으로 접근)
+ * 
+ * static은 static 존에 static main 메서드와 함께 자동으로 올라간다.
+ */

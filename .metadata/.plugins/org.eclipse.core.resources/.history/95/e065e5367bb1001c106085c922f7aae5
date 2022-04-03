@@ -1,0 +1,30 @@
+
+public class TCP09 {
+
+	public static void main(String[] args) {
+		
+
+	}
+	public int sum()
+	{
+		
+	}
+}
+
+
+/*
+ * JVM의 4가지 메모리 영역
+ * 		method Area      		  				stack Area     					     heap Area      				literal Pool
+ *      
+ *      static zone
+ *        main 1.																TPC08 tpc = new TPC08()
+ *                    							 call 			pointer		TPC08
+ *   -------------------------------------------------------------------   ㅡㅡㅡㅡㅡㅡㅡ> add
+ *   |  non-static zone    						3.                       |
+ *   ->    add(byte code)------------------------> add(a:10,b:20,sum:30) |
+ *      4.            								ㅅ                    2. int v=tpc.add(a,b);
+ *													|					 |
+ *											 	  main                   |
+ *											ㅁ:a   ㅁ:b   ㅁ:v   ㅁ:tcp-----                                               
+ *       
+ */

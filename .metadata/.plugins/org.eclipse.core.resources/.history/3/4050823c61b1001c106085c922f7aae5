@@ -1,0 +1,16 @@
+
+public class TPC06 {
+
+	public static void main(String[] args) {
+		// 메서드 -> 동작(method), 기능(function)
+		
+		int result = sum(a,b);
+	}
+	
+	// 정수 2개를 더하여 총합을 구하여 리턴하는 메서드를 정의하시오.
+	public static int sum(int a, int b) // 호출하는 메서드가 static이므로 static을 붙여준다.
+	{
+		return a+b;
+	}
+
+}

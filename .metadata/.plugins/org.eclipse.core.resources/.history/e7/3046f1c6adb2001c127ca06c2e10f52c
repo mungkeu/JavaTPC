@@ -1,0 +1,12 @@
+package kr.tpc;
+
+public class Inflearn {
+	public void tpc()
+	{
+		
+	}
+	public void java()
+	{
+		
+	}
+}

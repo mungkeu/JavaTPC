@@ -1,0 +1,29 @@
+
+public class TPC02 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+
+/*
+ * 프로그래밍의 3대 요소
+ * - 변수, 자료형(DataType), 할당(=)
+ * 
+ * a  b  c -> 메모리의 이름(변수)
+ * ㅁ ㅁ  ㅁ  메모리
+ * 
+ * 변수 -> 기억공간
+ * 1. 크기는 얼마만큼 할당할 것인가?
+ * 2. 어떤 종류의 data를 저장할 것인가?
+ * 위의 1, 2을 Type이라고 한다.
+ * 
+ * 4byte 정수 int
+ * 실수 float
+ * 문자 char
+ * 
+ * a 변수에 정수를 할당하겠다. -> int a;
+ * ㅁ -> 4byte 만큼의 메모리를 할당.
+ */

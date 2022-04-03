@@ -1,0 +1,6 @@
+package kr.bit;
+
+public class TPC05 {
+	// 9개의 정수형 변수를 만들어라
+	in[][] b=new int[3][3];
+}

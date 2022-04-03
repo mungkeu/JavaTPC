@@ -1,0 +1,9 @@
+
+public class TPC16 {
+
+	public static void main(String[] args) {
+		MemberVO m = new MemberVO("È«±æµ¿", 40, "010-1111-1111,"¼­¿ï");
+
+	}
+
+}

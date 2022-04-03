@@ -1,0 +1,23 @@
+
+public class TPC03 {
+
+	public static void main(String[] args) {
+		// 정수 1개를 저장하기 위한 변수를 선언하시오.
+		int a;
+		a=10;
+		
+		// 책 1권을 저장하기 위한 변수를 선언하시오.
+		Book b;
+	}
+}
+/*
+ * 관계를 이해하자.
+ * PDT   VS   UDDT 
+ * 
+ * book => 제목, 가격, 출판사...
+ * 
+ * 제목   가격  출판사...
+ * ㅁ     ㅁ   ㅁ ...
+ * 
+ * 위와 같은 구조를 설계한다 -> class
+ */

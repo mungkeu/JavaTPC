@@ -1,0 +1,15 @@
+
+public class TCP18 {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
+/*
+ * 동일한 구조 VS 이질적인 구조 
+ *
+ * 1. 배열 VS 클래스의 관계
+ * 
+ */

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="kr.bit.Book"/>
+    <fullyQualifiedTypeName name="kr.bit.PersonVO"/>
+    <fullyQualifiedTypeName name="kr.tpc.Inflearn"/>
+    <fullyQualifiedTypeName name="kr.tpc.BookDTO"/>
+    <fullyQualifiedTypeName name="kr.tpc.MemberVO"/>
+    <fullyQualifiedTypeName name="kr.tpc.MovieVO"/>
+    <fullyQualifiedTypeName name="kr.tpc.MyUtill"/>
+    <fullyQualifiedTypeName name="com.google.gson.Gson"/>
+    <fullyQualifiedTypeName name="kr.tpc.BookVO"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,24 @@
+
+public class TPC15 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+
+/*
+ * 잘 설계된 클래스 (Model.DTO,VO)
+ * 
+ * MemberVO m = new MemberVO() -> ㅁㅁㅁㅁ -> 인스턴스의 상태정보를 보호해야 한다.
+ * 
+ * 정보은닉(private) : 다른 객체(class)로 부터 접근을 막는 것(private)
+ * 
+ * 
+ * 
+ *  this  ㅁ  ->   			 private                            public
+ *  m     ㅁ  ->   ㅁ(name) ㅁ(age) ㅁ(tel) ㅁ(addr) | ㅁ(Setter Method) ㅁ(Getter Method)
+ *  
+ * 
+ */

@@ -1,0 +1,11 @@
+package kr.tpc;
+
+public class MovieVO {
+	private String title;
+	private int price;
+	private String author;
+	private int lebel;
+	private float time;
+	
+	public MovieVO();
+}
