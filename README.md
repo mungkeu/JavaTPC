@@ -34,5 +34,19 @@ Used IDE : Eclipse</br>
   
 **Part-2**
 - _Object Orientation_
+  - [TPC20.java](https://github.com/mungkeu/JavaTPC/blob/main/JavaTPC/src/TPC20.java) - Inheritance (수평적 구조 vs 수직적 구조)
+  - [TPC21.java](https://github.com/mungkeu/JavaTPC/blob/main/JavaTPC/src/TPC21.java) - Override(재정의)
+  - [TPC22.java](https://github.com/mungkeu/JavaTPC/blob/main/JavaTPC/src/TPC22.java) - 상속관계에서의 객체생성 방법
+  - [TPC23.java](https://github.com/mungkeu/JavaTPC/blob/main/JavaTPC/src/TPC23.java) - 다형성
+  - [TPC24.java](https://github.com/mungkeu/JavaTPC/blob/main/JavaTPC/src/TPC24.java) - 업 캐스팅, 다운 캐스팅
+  - [TPC25.java](https://github.com/mungkeu/JavaTPC/blob/main/JavaTPC/src/TPC25.java) - 다형성의 활용
+  - [TPC26.java](https://github.com/mungkeu/JavaTPC/blob/main/JavaTPC/src/TPC26.java) - 추상 클래스(abstract class) 활용(일부 다형성 보장)
+  - [TPC27.java](https://github.com/mungkeu/JavaTPC/blob/main/JavaTPC/src/TPC27.java) - 인터페이스 활용(100% 다형성 보장)
+  - [TPC28.java](https://github.com/mungkeu/JavaTPC/blob/main/JavaTPC/src/TPC28.java) - 추상 클래스와 인터페이스 (다형성을 보장하기 위함)
+  - [TPC29.java](https://github.com/mungkeu/JavaTPC/blob/main/JavaTPC/src/TPC29.java) - 인터페이스(규약)와 JDBC의 관계
+  - [TPC30.java](https://github.com/mungkeu/JavaTPC/blob/main/JavaTPC/src/TPC30.java) - 인터페이스와 인터페이스의 상속관계
+  - [TPC31.java](https://github.com/mungkeu/JavaTPC/blob/main/JavaTPC/src/TPC31.java) - Object class, toString()
+  - [TPC32.java](https://github.com/mungkeu/JavaTPC/blob/main/JavaTPC/src/TPC32.java) - Object class의 활용 (다형성 인수, 다형성 배열)
+  - [TPC33.java](https://github.com/mungkeu/JavaTPC/blob/main/JavaTPC/src/TPC33.java) - Part-2 학습정리
 
-</br>
+**Part-3**
